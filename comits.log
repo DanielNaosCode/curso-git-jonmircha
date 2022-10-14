@@ -1,0 +1,32 @@
+* 109b949 prueba push
+*   d366d5a Resolviendo conflicto en meses del año
+|\  
+| * fc33bb2 meses del año
+* | 1c89cfa Fechas Del Año
+|/  
+*   7b8c65d resolviendo conflicto merge manual
+|\  
+| * 3a775bb agregando js al index.html
+* | 84837d8 agregando style.css a la rama principal
+|/  
+*   b88ae07 Merge branch 'js'
+|\  
+| * 1fbbd08 js
+* |   b6dc5e2 Merge branch 'css'
+|\ \  
+| * | a2fcb05 css
+| |/  
+* |   fe0c1b5 Merge branch 'html'
+|\ \  
+| |/  
+|/|   
+| * e2c2feb sony
+* | 54773d1 Idex
+|/  
+* ff1258a Config VSCODE
+* 7561458 ignorando archivos .exe
+* 0b5f747 Prueba de Cambio Nombre Carpeta
+* 6bdc9e8 Creacion de licencia
+* 16a26d1 agregando mas contenido README
+* 2d72bd7 Agregando información al readme
+* b6466d6 Primer commit en repositorio 😊
